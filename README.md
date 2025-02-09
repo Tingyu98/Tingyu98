@@ -40,5 +40,6 @@
    - Git
 ---
 ## 📌 Featured Projects
-1. [NutritionExpert]([https://github.com/Tingyu98/NutritionExpert)
+1. [NutritionExpert](https://github.com/Tingyu98/NutritionExpert)
+
 2. 
