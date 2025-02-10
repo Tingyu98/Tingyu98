@@ -46,3 +46,7 @@ Learning](https://github.com/Tingyu98/Global-Mental-Health-and-Socio-Economic-Fa
 3. [Video Game Sales Exploratory Data Analysis](https://github.com/Tingyu98/Video-Game-Sales-Exploratory-Data-Analysis)
 4. [Analysis of Seattle Bird Sounds using Neural Networks](https://github.com/Tingyu98/Analysis-of-Seattle-Bird-Sounds-Deep-Learning)
 5. [Yelp Sentiment Analysis](https://github.com/Tingyu98/Sentiment-Analysis-)
+---
+## 📫 Let's Connect!
+- 💼 **LinkedIn:** [Ting-Yu, Lin](https://www.linkedin.com/in/ting-yu-lin-5a8565215/)  
+- 📧 **Email:** [tingyu98893@gmail.com](mailto:tingyu98893@gmail.com)  
