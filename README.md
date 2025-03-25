@@ -43,7 +43,7 @@
 1. [NutritionExpert](https://github.com/Tingyu98/NutritionExpert)
 2. [Predicting Prevalence of Mental Health Disorders Using Supervised
 Learning](https://github.com/Tingyu98/Global-Mental-Health-and-Socio-Economic-Factors)
-3. [Video Game Sales Exploratory Data Analysis](https://github.com/Tingyu98/Video-Game-Sales-Exploratory-Data-Analysis)
+3. [Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry](https://github.com/Tingyu98/Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 4. [Analysis of Seattle Bird Sounds using Neural Networks](https://github.com/Tingyu98/Analysis-of-Seattle-Bird-Sounds-Deep-Learning)
 5. [Yelp Sentiment Analysis](https://github.com/Tingyu98/Sentiment-Analysis-)
 ---
