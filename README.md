@@ -40,7 +40,7 @@
    - Git
 ---
 ## 📌 Featured Projects
-1. [NutritionExpert](https://github.com/Tingyu98/NutritionExpert)
+1. [Computer Vision Nutrition Tracker](https://github.com/Tingyu98/NutritionExpert)
 2. [Predicting Prevalence of Mental Health Disorders Using Supervised
 Learning](https://github.com/Tingyu98/Global-Mental-Health-and-Socio-Economic-Factors)
 3. [Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry](https://github.com/Tingyu98/Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
