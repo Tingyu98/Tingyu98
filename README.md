@@ -48,5 +48,5 @@ Learning](https://github.com/Tingyu98/Global-Mental-Health-and-Socio-Economic-Fa
 5. [Yelp Sentiment Analysis](https://github.com/Tingyu98/Sentiment-Analysis-)
 ---
 ## 📫 Let's Connect!
-- 💼 **LinkedIn:** [Ting-Yu, Lin](https://www.linkedin.com/in/ting-yu-lin-5a8565215/)  
+- 💼 **LinkedIn:** [Beth(Ting-Yu), Lin](https://www.linkedin.com/in/tingyu-data/)  
 - 📧 **Email:** [tingyu98893@gmail.com](mailto:tingyu98893@gmail.com)  
