@@ -40,13 +40,13 @@
    - Git
 ---
 ## 📌 Featured Projects
-1. [Computer Vision Nutrition Tracker](https://github.com/Tingyu98/NutritionExpert)
-2. [Predicting Prevalence of Mental Health Disorders Using Supervised
+1. [SaaS Retention & Customer Value Analysis](https://github.com/Tingyu98/SaaS-Product-Analytics-Retention-Analysis)
+2. [Computer Vision Nutrition Tracker](https://github.com/Tingyu98/NutritionExpert)
+3. [Predicting Prevalence of Mental Health Disorders Using Supervised
 Learning](https://github.com/Tingyu98/Global-Mental-Health-and-Socio-Economic-Factors)
-3. [Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry](https://github.com/Tingyu98/Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
-4. [Analysis of Seattle Bird Sounds using Neural Networks](https://github.com/Tingyu98/Analysis-of-Seattle-Bird-Sounds-Deep-Learning)
+4. [Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry](https://github.com/Tingyu98/Global-Consumer-and-Market-Trend-Analysis-for-the-Video-Game-Industry)
 5. [Yelp Sentiment Analysis](https://github.com/Tingyu98/Sentiment-Analysis-)
 ---
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [Beth(Ting-Yu), Lin](https://www.linkedin.com/in/tingyu-data/)  
-- 📧 **Email:** [tingyu98893@gmail.com](mailto:tingyu98893@gmail.com)  
+- 📧 **Email:** [bethlin034@gmail.com](mailto:bethlin034@gmail.com)  
