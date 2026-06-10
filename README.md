@@ -8,7 +8,7 @@
 
 - 🎓 **Master's in Data Science** | Seattle University  
 - 🎓 **B.S. & M.S. in Food Science** | National Taiwan Ocean University
-- 💼 **5+ years of experience in food chemistry data analysis and research**
+- 💼 **5+ years of experience in data analysis and research**
 ---
 ## 💡 Technical Skills
 
